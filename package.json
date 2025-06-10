@@ -1,0 +1,50 @@
+{
+  "name": "gravifun",
+  "version": "1.0.0",
+  "description": "3D playground built on three.js and cannon.js",
+  "keywords": [
+    "3d",
+    "threejs",
+    "cannonjs",
+    "game",
+    "engine",
+    "typescript",
+    "gravifun"
+  ],
+  "main": "build/gravifun.min.js",
+  "types": "build/types/gravifun.d.ts",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GraviFun/gravi.fun.git"
+  },
+  "author": "Gravi <tech@gravi.fun> (http://gravi.fun/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GraviFun/gravi.fun/issues"
+  },
+  "homepage": "https://github.com/GraviFun/gravi.fun",
+  "devDependencies": {
+    "@types/jquery": "^3.5.5",
+    "@types/lodash": "^4.14.168",
+    "css-loader": "^3.6.0",
+    "style-loader": "^1.3.0",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.9.9",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "sweetalert2": "^9.17.2",
+    "three": "0.113.0",
+    "three-csm": "1.0.2",
+	"express": "^4.18.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
