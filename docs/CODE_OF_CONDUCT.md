@@ -6,10 +6,10 @@ GraviFun is a physics-based sandbox made for creative chaos. You can help us by 
 
 ## Ways to contribute
 
-- Suggest new gameplay ideas or features
-- Report bugs or glitches
-- Propose new visual styles or UI tweaks
-- Submit pull requests with improvements
+- 🧠 Suggest new gameplay ideas or features
+- 🐞 Report bugs or glitches
+- 🎨 Propose new visual styles or UI tweaks
+- 💻 Submit pull requests with improvements
 
 ## How to start
 
