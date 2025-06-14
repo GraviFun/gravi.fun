@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://gravi.fun"><img src="./src/img/logo.png" alt="Gravifun Logo"></a>
   <br>
-  <a href="https://gravi.fun">Live Demo</a>
+  <a href="https://gravi.fun">Live Demo (soon)</a>
 </p>
 
 # About GraviFun
